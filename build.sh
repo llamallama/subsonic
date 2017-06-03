@@ -1,2 +1,2 @@
 #! /bin/sh
-docker build -t mschuerig/debian-subsonic debian-subsonic
+docker build -t llamallama/debian-subsonic debian-subsonic

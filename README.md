@@ -4,7 +4,7 @@ Docker (http://docker.io) image for the Subsonic media streamer.
 
 ## Noteworthy
 
-* Subsonic 6.0 (http://www.subsonic.org)
+* Subsonic 6.1 (http://www.subsonic.org)
 * Debian/jessie
 * Runs as user subsonic (UID 10000)
 
@@ -19,11 +19,11 @@ $ docker build -t <your-name>/debian-subsonic debian-subsonic
 A current image is available as a trusted build from the Docker index:
 
 ```shell
-$ docker pull  mschuerig/debian-subsonic
+$ docker pull llamallama/debian-subsonic
 ```
 
 The repository page is at
-https://index.docker.io/u/mschuerig/debian-subsonic/
+https://index.docker.io/u/llamallama/debian-subsonic/
 
 
 ## Run a container with this image
